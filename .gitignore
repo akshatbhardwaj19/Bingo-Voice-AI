@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vosk models
+models/
+vosk-model*/
+
+# Wake word files (optional)
+*.ppn
+
+# local temp files
+temp.txt
+
